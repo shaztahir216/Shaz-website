@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.slider-images{
+    height: 400px;
+    
+}
+
+#slide1{
+    background: url(../images/slide1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#slide2{
+    background: url(../images/slide2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#slide3{
+    background: url(https://images.unsplash.com/photo-1542362567-b07e54358753?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
+    background-size: cover;
+    background-position: center;
+}
+
